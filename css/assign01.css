@@ -12,6 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bolder;
 }
 .sidebar
 {
@@ -26,6 +27,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bolder;
 }
 .main
 {
@@ -40,6 +42,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bolder;
 }
 .footer{
     width: 100%;
@@ -51,4 +54,5 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bolder;
 }
